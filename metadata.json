@@ -1,0 +1,6 @@
+{
+  "name": "AuraDub — Real-Time AI Dubbing Overlay",
+  "description": "Ultra-lightweight Game Booster style floating overlay for real-time AI anime and movie dubbing with Liquid Glass UI and character voice profiles.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
